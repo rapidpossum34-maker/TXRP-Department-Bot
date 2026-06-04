@@ -93,8 +93,8 @@ const appConfig = {
     
     tickets: true,                  
     giveaways: true,                
-    birthday: true,                 
-    counter: true,                  
+    birthday: false,                 
+    counter: false,                  
 
     
     verification: true,             
@@ -102,8 +102,8 @@ const appConfig = {
     joinToCreate: true,             
 
     
-    voice: true,                    
-    search: true,                   
+    voice: false,                    
+    search: false,                   
     tools: true,                    
     utility: true,                  
     community: true,                
