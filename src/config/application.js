@@ -106,11 +106,11 @@ const appConfig = {
     search: false,                   
     tools: true,                    
     utility: true,                  
-    community: true,                
+    community: false,                
     fun: true,                      
 
     
-    music: false,                   
+    music: true,                   
   },
 
   env: process.env.NODE_ENV || "development",
